@@ -1,2 +1,2 @@
 # NewTest
-fuck U
+这是第一次作业
